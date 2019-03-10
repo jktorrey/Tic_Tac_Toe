@@ -5,5 +5,7 @@ One player selects a marker (X/O) then players enter board positions to try and 
 Positions are as follows:
 
 Top Row: 7  |  8  |  9
-\nMid Row: 4  |  5  |  6
-\nBot Row: 1  |  2  |  3
+
+Mid Row: 4  |  5  |  6
+
+Bot Row: 1  |  2  |  3
