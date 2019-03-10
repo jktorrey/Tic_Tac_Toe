@@ -98,7 +98,7 @@ else:
     display_board(board)
     player1_turn = True
 
-while (full_board_check(board) != True) and (win_check(board,player1_marker) != True or win_check(board,player2_marker)):
+while (full_board_check(board) != True):
     if player1_turn == True:
         print ("Player 1's turn")
         position = player_choice(board)
