@@ -5,7 +5,7 @@ One player selects a marker (X/O) then players enter board positions to try and 
 Positions are as follows:
 
    7  |  8  |  9
-  ---------------
+  \---------------
    4  |  5  |  6
-  ---------------
+  \---------------
    1  |  2  |  3
